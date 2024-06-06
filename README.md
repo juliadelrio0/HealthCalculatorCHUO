@@ -6,7 +6,7 @@ Este proyecto es una calculadora de salud para el Complejo Hospitalario Universi
 
 A continuación se muestra una captura de pantalla del tablero Kanban utilizado para la planificación y gestión del proyecto.
 
-![Tablero Kanban](/tablero kanban.png)
+![Tablero Kanban](/tableroKanban.png)
 
 ## Estructura del proyecto
 
